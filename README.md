@@ -50,6 +50,7 @@ Latest binary snapshots (built after each commit):
   - [trunk](https://github.com/mikrosk/freemint.github.io/tree/master/builds/freemint/master/old) (master branch)
   - [helmut](https://github.com/mikrosk/freemint.github.io/tree/master/builds/freemint/helmut-enhancements/old) (Helmut Karlowski's branch)
   - [freemint-1_18](https://github.com/mikrosk/freemint.github.io/tree/master/builds/freemint/freemint-1_18/old)  (FreeMiNT 1.18 branch)
+  - [freemint-1_17](https://github.com/mikrosk/freemint.github.io/tree/master/builds/freemint/freemint-1_17/old)  (FreeMiNT 1.17 branch)
 - [MiNTlib](https://github.com/freemint/freemint.github.io/tree/master/builds/mintlib/master)
 - [FDlibm](https://github.com/freemint/freemint.github.io/tree/master/builds/fdlibm/master)
 - [GEMlib, CFLib, gemma](https://github.com/freemint/freemint.github.io/tree/master/builds/lib/master)
